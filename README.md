@@ -11,6 +11,9 @@ My interests are:
 * High-performance computing on ARM
 
 
+
+📫 How to reach me: kevin.h.evans@wsu.edu
+
 <!--
 **kevinhikaruevans/kevinhikaruevans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
