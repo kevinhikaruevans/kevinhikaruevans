@@ -4,12 +4,9 @@
 
 My interests are:
 
-* Firmware in C and RTL with Verilog (especially on Xilinx!)
+* Firmware in C and RTL with Verilog (especially on Xilinx chips)
 * Embedded devices
 * Web development with React
-* Experimental physics
-* High-performance computing on ARM
-
 
 
 📫 How to reach me: kevin.h.evans@wsu.edu
