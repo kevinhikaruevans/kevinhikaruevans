@@ -10,4 +10,4 @@ My interests are:
 * Typesetting with LaTeX
 * Human-centered design
 * Motorcycling and wrenching
-* Traveling: 🇨🇦 🇯🇵 🇹🇼 🇮🇸
+* Traveling: 🇺🇸 (21/50) 🇨🇦 (2/13) 🇯🇵 🇹🇼 🇮🇸 
