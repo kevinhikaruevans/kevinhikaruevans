@@ -8,6 +8,4 @@ My interests are:
 * Embedded and IoT devices
 * Web development with React
 * Typesetting with LaTeX
-* Human-centered design
-* Motorcycling and wrenching
 * Traveling: 🇺🇸 (21/50) 🇨🇦 (2/13) 🇯🇵 🇹🇼 🇮🇸 
