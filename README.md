@@ -4,7 +4,10 @@ I'm a software developer working at [@innotechengineering](https://github.com/in
 
 My interests are:
 
-* Firmware in C and RTL with Verilog (especially on Xilinx chips)
+* Firmware in C, especially on:
+   * ESP32 with ESP-IDF
+   * Azure Sphere devices
+   * Xilinx Zynq chips (Verilog, too!)
 * Embedded and IoT devices
 * Web development with React frontends
 * Typesetting with LaTeX
