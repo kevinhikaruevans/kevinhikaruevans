@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I'm a software developer working at [@innotechengineering](https://github.com/innotechengineering). I graduated summa cum laude from [Washington State University](https://wsu.edu/) a bachelors in computer engineering and a bachelors in physics.
+I'm a software developer working at [@innotechengineering](https://github.com/innotechengineering). I graduated summa cum laude in 2022 from [Washington State University](https://wsu.edu/) with a bachelors in computer engineering and a bachelors in physics.
 
 My interests are:
 
 * Firmware in C, especially on:
    * ESP32 with ESP-IDF
-   * Azure Sphere devices
-   * Xilinx Zynq chips (Verilog, too!)
+   * Xilinx Zynq chips (with Verilog)
 * Embedded and IoT devices
-* Web development with React frontends
+* Web development with React frontends, and FastAPI or Flask backends
+* Linux systems
 * Typesetting with LaTeX
-* Traveling: 🇺🇸 (21/50) 🇨🇦 (2/13) 🇯🇵 🇹🇼 🇮🇸 
+* Traveling: 🇺🇸 🇨🇦 🇯🇵 🇹🇼 🇮🇸 
