@@ -11,4 +11,4 @@ My interests are:
 * Web development with React frontends, and FastAPI or Flask backends
 * Linux systems
 * Typesetting with LaTeX
-* Traveling: 🇺🇸 🇨🇦 🇯🇵 🇹🇼 🇮🇸 
+* Traveling: 🇺🇸 🇨🇦 🇯🇵 🇹🇼 🇮🇸 (soon: :chile:)
