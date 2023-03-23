@@ -15,5 +15,5 @@ My interests are:
 
 Things I want to learn more of:
 
-* Jetpack Compose
+* Android development: Kotlin and Jetpack Compose
 * Rust, specifically for embedded devices
