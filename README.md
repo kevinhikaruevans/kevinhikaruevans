@@ -15,5 +15,6 @@ My interests are:
 
 Things I want to learn more of:
 
+* Control theory/systems
 * Android development: Kotlin and Jetpack Compose
 * Rust, specifically for embedded devices
