@@ -15,3 +15,5 @@ Things I want to learn more of:
 
 * Cool physics with pedagogical simulations
 * Rust, specifically for embedded devices
+
+🆕 I've now got a blog: https://khevans.com/
