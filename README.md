@@ -14,7 +14,8 @@ My interests are:
 Things I want to learn more of:
 
 * Cool physics with pedagogical simulations
-
+* Actual real-world uses for FPGAs
+ 
 ---
 
 🆕 I've now got a blog: https://khevans.com/
