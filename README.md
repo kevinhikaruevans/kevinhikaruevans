@@ -14,7 +14,6 @@ My interests are:
 Things I want to learn more of:
 
 * Cool physics with pedagogical simulations
-* Rust, specifically for embedded devices
 
 ---
 
