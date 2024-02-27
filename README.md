@@ -1,6 +1,6 @@
 ### Greetings.
 
-I graduated _summa cum laude_ in 2022 from [Washington State University](https://wsu.edu/) with a bachelor's degree in computer engineering and a bachelor's degree in physics. Now, I'm a software developer working at [@innotechengineering](https://github.com/innotechengineering)/[@innotechmarine](https://github.com/innotechmarine).
+I graduated _summa cum laude_ in 2022 from [Washington State University](https://wsu.edu/) with a bachelor's degree in computer engineering and a bachelor's degree in physics.
 
 My interests are:
 
@@ -14,7 +14,7 @@ My interests are:
 Things I want to learn more of:
 
 * Cool physics with pedagogical simulations
-* Actual real-world uses for FPGAs
+* Real-world uses for FPGAs
  
 ---
 
