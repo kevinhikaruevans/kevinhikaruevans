@@ -1,12 +1,12 @@
 ### Greetings.
 
-I graduated _summa cum laude_ in 2022 from [Washington State University](https://wsu.edu/) with a bachelor's degree in computer engineering and a bachelor's degree in physics.
+I graduated _summa cum laude_ in 2022 from [Washington State University](https://wsu.edu/) with a BSc in computer engineering and a BSc in physics.
 
 My interests are:
 
 * Firmware in C
 * Embedded and IoT devices
-* Web development with React frontends, and FastAPI or Flask backends
+* Web development with React frontends and FastAPI backends
 * Linux systems
 * Typesetting with LaTeX
 * Traveling: 🇺🇸 🇨🇦 🇯🇵 🇹🇼 🇮🇸 (soon: 🇨🇱, 🇦🇺)
