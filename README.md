@@ -4,8 +4,7 @@ I graduated _summa cum laude_ in 2022 from [Washington State University](https:/
 
 My interests are:
 
-* Firmware in C
-* Embedded and IoT devices
+* C for embedded devices
 * Web development with React frontends and FastAPI backends
 * Linux systems
 * Typesetting with LaTeX
@@ -14,7 +13,3 @@ Things I want to learn more of:
 
 * Cool physics with pedagogical simulations
 * Real-world uses for FPGAs
- 
----
-
-🆕 I've now got a blog: https://khevans.com/
